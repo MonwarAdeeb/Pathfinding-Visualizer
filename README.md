@@ -1,1 +1,1 @@
-This is a Pathfinding Visualizer app currently under development using Javascript.
+This is a Pathfinding Visualizer app which is currently under development using Javascript.
